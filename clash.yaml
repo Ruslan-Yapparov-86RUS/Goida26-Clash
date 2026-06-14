@@ -7,13 +7,12 @@ proxies:
 
 - name:  🇳🇱[myserver] vless-NL🅿️ping:200ms
   type: vless
-  server: 31.76.9.135:9488
-  port: 555
-  uuid: 73450086-ffe0-4194-beb3-d33ea44f3f8c
+  server: 78.17.66.99:11125
+  port: 443
   udp: true
   skip-cert-verify: true
   encryption: none
-  sni: www.oracle.com:443
+  sni: api-maps.yandex.ru
 
 - name: 👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:114.4ms
   type: vless
