@@ -5,10 +5,10 @@
 
 proxies:
 
-- name: 👉🆔@v2ray_configs_pool📡🇳🇱®️Nederland🅿️ping:200ms
+- name:  🇳🇱[myserver] vless-NL🅿️ping:200ms
   type: vless
   server: 31.76.9.135:9488
-  port: 9488
+  port: 555
   uuid: 73450086-ffe0-4194-beb3-d33ea44f3f8c
   udp: true
   skip-cert-verify: true
