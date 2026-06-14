@@ -4,6 +4,17 @@
 # Источник: 26.txt
 
 proxies:
+
+- name: 👉🆔@v2ray_configs_pool📡🇳🇱®️Nederland🅿️ping:200ms
+  type: vless
+  server: 31.76.9.135:9488
+  port: 9488
+  uuid: 73450086-ffe0-4194-beb3-d33ea44f3f8c
+  udp: true
+  skip-cert-verify: true
+  encryption: none
+  sni: www.oracle.com:443
+
 - name: 👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:114.4ms
   type: vless
   server: 45.198.105.248
