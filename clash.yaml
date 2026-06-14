@@ -4,7 +4,6 @@
 # Источник: 26.txt
 
 proxies:
-
 - name:  🇳🇱[myserver] vless-NL🅿️ping:200ms
   type: vless
   server: 78.17.66.99:11125
@@ -13,7 +12,6 @@ proxies:
   skip-cert-verify: true
   encryption: none
   sni: api-maps.yandex.ru
-
 - name: 👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:114.4ms
   type: vless
   server: 45.198.105.248
